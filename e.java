@@ -6,4 +6,7 @@ public Robot {
         this.nombre = nombre
     }
 
+   public void XXX(){
+
+   }
 }
